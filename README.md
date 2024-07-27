@@ -4,8 +4,9 @@ Domain: Travel Industry, Property Management and Tourism
 
 Skills needed: Python scripting, Data Preprocessing, Visualization, EDA, Streamlit, MongoDb, Tableau 
 
-**Airbnb Insights: An Interactive Analysis of Pricing, Availability, and Location Trends**
 #
+**Airbnb Insights: An Interactive Analysis of Pricing, Availability, and Location Trends**
+
 The goal of this project is to perform a comprehensive analysis of Airbnb data to uncover insights into pricing variations, availability patterns, and location-based trends. By leveraging Python for data processing and visualization, and tools like Streamlit, Tableau for interactive visualizations, we aim to achieve the following objectives:
 
 **Data Cleaning and Preparation:**
